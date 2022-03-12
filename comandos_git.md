@@ -59,6 +59,19 @@ _$ git remote -v_
 <br />
 <br />
 
+## Para criar uma nova branch
+### A branch padrão é a **master**
+_$ git checkout -b nomedabranch_
+
+## Para exibir as branchs
+### A branch selecionada estará com um * na frente!
+_$ git branch_
+
+## Para selecionar a branch
+_$ git switch nome da branch_
+
+
+
 ## Conexão SSH com o Github
 <br />
 <br />
