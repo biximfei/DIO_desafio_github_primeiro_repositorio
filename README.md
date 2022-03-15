@@ -8,3 +8,5 @@ _Servirá para fazer anotações, salvar links e alguns observações!_
 ### [Comandos básicos do Git](./comandos_git.md)
 
 ### [Links Úteis](./links_uteis.md)
+
+### [VSCode - Dicas](./vscode_dicas.md)
