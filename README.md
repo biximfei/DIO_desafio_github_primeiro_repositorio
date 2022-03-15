@@ -10,3 +10,5 @@ _Servirá para fazer anotações, salvar links e alguns observações!_
 ### [Links Úteis](./links_uteis.md)
 
 ### [VSCode - Dicas](./vscode_dicas.md)
+
+## [JavaScript - Anotações](./javascript_anotacoes.md)

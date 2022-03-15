@@ -42,7 +42,10 @@ _$ git add -A_
 _$ git commit -m "Comentario sobre as atualizações feitas no projeto!"_
 <br />
 <br />
-
+## Se for a promeira vez que for enviar para o Github um determinado repositório´
+_$ git remote add origin git@github.com:usuário_do_github/repositório_no_guithub_
+<br />
+<br />
 ## Atualizar no Github com os commits
 ### **origin:**  repositório no Github; **master:** base local;
 _$ git push origin master_
